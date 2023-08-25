@@ -53,4 +53,4 @@ We appreciate your contributions and will review your pull request as soon as po
 
 <img width="1280" alt="Screenshot 2023-08-25 at 6 08 57 PM" src="https://github.com/TechTangoo/Solar-System/assets/103273242/a281dd76-31df-4e3f-89c8-c6c727f7a6e7">
 
-#Thankyou!
+# Thankyou!
